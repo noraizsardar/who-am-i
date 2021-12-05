@@ -1,0 +1,105 @@
+name: John Doe
+support_dark_mode: true
+fork: true
+
+# Sidebar
+contact:
+  email: noraizsardar@gmail.com
+  github: noraiz
+  linkedin: muhammad-noriaz
+  phone: +923235263775 
+  # gitlab: 
+  # twitter: 
+
+languages:
+  - idiom: English
+  - idiom: Urdu
+
+education:
+  - degree: BSc in Software Engineering
+    time: 2015-2019
+    university: Comsats University Islamabad
+
+skills:
+  - category: Backend
+    skill: 
+      - Node
+      - C#
+      - Python
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+      - HTML/CSS
+  - category: Databases
+    skill:
+      - SQL
+      - MongoDB
+      - Firestore
+  - category: Other
+    skill:
+      - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
+      - Docker
+      - Git 
+
+# Profile
+profile: |
+  Experienced Software Engineer with demonstrated abilities in 
+  problem solving, developing, integrating and maintaining 
+  software systems. Strong in analytical and design abilities 
+  with great communication skills..
+
+# Experience
+experience:
+  - role: Software Engineer
+    time: October 2019-Present
+    company: Red Buffer
+    details: |
+      I am working on diverse set of project. 
+    technologies_used: | 
+      Node, React, Typescript, C#, Python, AWS, PostgreSQL, MongoDB, ElectronJs
+  
+  - role: Associate Software Engineer
+    time: February 2019-October 2019
+    company: iEngineering Pvt. Ltd
+    details: |
+      Started my career there with great learning environment and applied my skills
+      in development and enhancement of the new and existing systems. 
+    technologies_used: | 
+      .NET MVC, MsSQL, Javascript, AngularJS
+
+projects:
+  - title: Portage Claims Assessment Tool 
+    tools: Nodejs, Python, Lambdas Functions, Api Gateway, AWS CDK, AWS Honeycode, Quicksight
+    details: |
+      A machine learning based classification system to classify medical insurance claims and draw analytics
+      based on claims dataset. ML pipelines are connected through lambda functions which are being called
+      by the front-end app using an api gateway and results are live updated in Quicksight analytical
+      dashboard.
+
+  - title: Law Market - MLsort 
+    tools: NodeJs, ElectronJs, ReactJs, Python
+    details: |
+      A desktop application aims to assist law firms in the litigation process. The application helps lawyers by
+      classifying documents leveraging Machine Learning models which are built in Python and compiling
+      reports, significantly reducing their time. The application is built in Electron with front-end written in
+      ReactJs. NodeJs child processes are used to communicate between python executable and Electron
+      application. Electron IPC are used for communicating with native desktop libraries. Built and published
+      as a standalone installable cross-platform application.
+
+  - title: NIH Data Sciences Platform for Disease Analysis 
+    tools: NodeJs, ElectronJs, ReactJs, Python
+    details: |
+      The system builds on specifically tailored Machine Learning algorithms and functionalities such as
+      Predictive Analytics to offer a rich suite of features. With role based accesses and intuitive
+      visualizations, it offers ease of use with fast access to insights and key trends, enabling better planning
+      and policy decisions. The front-end of the platform is built in React Js with Ant design as UI framework.
+      The backend of the application is built in NestJs and Postgres is used for the purpose of database.    
+  
+  - title: Transconomy
+    tools: .NET MVC, C#, AngularJS, SQL
+    details: |
+      This system is aimed to assist the operational/logistics tasks of an Off-Dock Container Terminal. It also
+      tracks the containers moving around via android app, and generates the real-time reports. The
+      application is written in .Net MVC-5 and the front-end is built in AngularJS. The application is highly
+      scalable and modular.
