@@ -4,11 +4,15 @@
     }
     .project {
         margin-bottom: 20px;
-        .project-link {
-            @include body-text;
+        .title {
+            @include sub-header;
         }
         .details {
             @include body-text;
+        }
+        .tools {
+            @include body-text;
+            font-weight: bold;
         }
     }
 }

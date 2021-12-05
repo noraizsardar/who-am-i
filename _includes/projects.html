@@ -4,11 +4,10 @@
     <h2 class="title">Projects</h2>
     {% for p in projects %}
         <div class="project">
-            <span>
-                <a class="project-link" href="{{p.link}}">
-                    {{p.title}}
-                </a>
-            </span>
+            <div class="title">
+                {{p.title}}
+            </div>
+            <div class="tools">- {{p.tools}}</div>
             <span class="details">- {{p.details}}</span>
         </div>
     {% endfor %}
