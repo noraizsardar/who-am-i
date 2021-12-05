@@ -1,6 +1,7 @@
-name: John Doe
+name: Muhammad Noraiz
 support_dark_mode: true
-fork: true
+dark_mode: true
+fork: false
 
 # Sidebar
 contact:
