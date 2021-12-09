@@ -8,6 +8,11 @@
         color: var(--fg-color-dark);
         font-weight: bolder;
         text-transform: uppercase;
+        margin-bottom: 0px;
+    }
+    .role {
+        font-weight: bolder;
+        margin-top: 0px;
     }
     input[type="checkbox"] {
         width: 0;
