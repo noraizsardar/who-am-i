@@ -50,7 +50,7 @@ profile: |
   Experienced Software Engineer with demonstrated abilities in 
   problem solving, developing, integrating and maintaining 
   software systems. Strong in analytical and design abilities 
-  with great communication skills..
+  with great communication skills.
 
 # Experience
 experience:
@@ -58,7 +58,12 @@ experience:
     time: October 2019-Present
     company: Red Buffer
     details: |
-      I am working on diverse set of projects, primarily on Javascript stack. I've worked and lead different teams.  
+      I am working on diverse set of projects, primarily on Javascript stack. 
+      I've worked and lead different teams including a leading ride hailing service, 
+      logistic company in Pakistan. I have contributed in building scalable, robust, 
+      reusable solution
+
+
     technologies_used: | 
       Node, React, Typescript, C#, Python, AWS, PostgreSQL, MongoDB, ElectronJs
   
