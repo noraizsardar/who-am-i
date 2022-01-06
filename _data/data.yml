@@ -80,7 +80,7 @@ projects:
   - title: Grocery Application 
     tools: Nodejs, Angular, MongoDB, Postgres, Redis, Elastic Search
     details: |
-      Food/Grocery delivery application based on dark-store model launched by one of the top ride hailing service startup running in Pakistan.
+      It is a food/grocery delivery application based on dark-store model launched by one of the top ride hailing service startup running in Pakistan.
       I worked as a backend engineer and contributed in launching and pivoting from near-by retail store model to dark-store model. 
       Application is highly scalable due to its modular microservices architecture. Microservices are written 
       in Express and Fastify. MongoDB and Postgres are used as primary databases. 
