@@ -26,14 +26,20 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Node
+      - Node (Typescript/Javascript)
+      - NestJs
+      - ExpressJS
+      - Fastify
       - C#
+      - .NetCore
+      - WebAPI
       - Python
   - category: Frontend
     skill:
       - React
-      - Typescript
-      - HTML/CSS
+      - AntDesign
+      - MaterialUI
+      - Angular
   - category: Databases
     skill:
       - SQL
@@ -43,6 +49,7 @@ skills:
     skill:
       - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
       - Docker
+      - Redis
       - Git 
 
 # Profile
