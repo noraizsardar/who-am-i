@@ -8,5 +8,16 @@
     .skill {
         @include body-text;
         text-align: left;
+            color: var(--fg-color-title-sm);
+            font-weight: bold;
+            font-size: 14px;
+    }
+    ul {
+        padding-left: 15px;
+        list-style-type: disc;
+      }
+    li::marker {
+      size: 14px;
+      color: #807d7c;
     }
 }

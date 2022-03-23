@@ -4,7 +4,6 @@ company: Red Buffer
 support_dark_mode: true
 dark_mode: true
 fork: false
-
 # Sidebar
 contact:
   email: noraizsardar@gmail.com
@@ -24,34 +23,28 @@ education:
     university: Comsats University Islamabad
 
 skills:
-  - category: Backend
-    skill: 
       - Node (Typescript/Javascript)
       - NestJs
       - ExpressJS
       - Fastify
       - C#
       - .NetCore
-      - WebAPI
       - Python
-  - category: Frontend
-    skill:
       - React
       - AntDesign
       - MaterialUI
       - Angular
-  - category: Databases
-    skill:
+      - Redis 
       - SQL
       - MongoDB
       - Firestore
-  - category: Other
-    skill:
+      - Prisma
+      - TypeORM
+      - Sequelize
+      - Entity Framework 
       - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
       - Docker
-      - Redis
-      - Git 
-
+      - Git
 # Profile
 profile: |
   Experienced Software Engineer with demonstrated abilities in 
