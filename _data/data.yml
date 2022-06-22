@@ -9,9 +9,9 @@ contact:
   email: noraizsardar@gmail.com
   github: noraiz
   linkedin: muhammad-noraiz
-  phone: +923235263775 
+  phone: +923235263775
   website: who-am-i
-  # twitter: 
+  # twitter:
 
 languages:
   - idiom: English
@@ -23,28 +23,28 @@ education:
     university: Comsats University Islamabad
 
 skills:
-      - Node (Typescript/Javascript)
-      - NestJs
-      - ExpressJS
-      - Fastify
-      - C#
-      - .NetCore
-      - Python
-      - React
-      - AntDesign
-      - MaterialUI
-      - Angular
-      - Redis 
-      - SQL
-      - MongoDB
-      - Firestore
-      - Prisma
-      - TypeORM
-      - Sequelize
-      - Entity Framework 
-      - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
-      - Docker
-      - Git
+  - Node (Typescript/Javascript)
+  - NestJs
+  - ExpressJS
+  - Fastify
+  - C#
+  - .NetCore
+  - Python
+  - React
+  - AntDesign
+  - MaterialUI
+  - Angular
+  - Redis
+  - SQL
+  - MongoDB
+  - Firestore
+  - Prisma
+  - TypeORM
+  - Sequelize
+  - Entity Framework
+  - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
+  - Docker
+  - Git
 # Profile
 profile: |
   Experienced Software Engineer with demonstrated abilities in 
@@ -63,28 +63,37 @@ experience:
       logistic company in Pakistan. I have contributed in building scalable, robust, 
       reusable solution
 
-
-    technologies_used: | 
+    technologies_used: |
       Node, React, Typescript, C#, Python, AWS, PostgreSQL, MongoDB, ElectronJs
-  
+
   - role: Associate Software Engineer
     time: February 2019-October 2019
     company: iEngineering Pvt. Ltd
     details: |
       Started my career there with great learning environment and applied my skills
-      in development and enhancement of the new and existing systems. 
-    technologies_used: | 
+      in development and enhancement of the new and existing systems.
+    technologies_used: |
       .NET MVC, MsSQL, Javascript, AngularJS
 
 projects:
-  - title: Grocery Application 
+  - title: Farmdar
+    tools: Typescript, React, Redux, Leaflet Maps, NestJs, Postgres, Redis, Prisma
+    details: |
+      This application allows farmers to discover their land, mark it up and submit for processing. The application then connects to the ML system to get the reports around the user's farmland. 
+      The reports cover various aspects of a farmland and indicates multiple factors around plant and soil.
+      I worked as a fullstack engineer and contributed in design and architecture of the application. Front-end application is designed in ReactJs and backend is written in NestJS. 
+      Backend architecture is microservice based, where multiple microservice are communicating in order to generate reports about the farm lands. Geotiffs are being processed and information is extracted and saved in database 
+      and also presented to the user in form of multiple reports. 
+
+  - title: Bykea - Khareed Lao  (Grocery Application)
     tools: Nodejs, Angular, MongoDB, Postgres, Redis, Elastic Search
     details: |
       It is a food/grocery delivery application based on dark-store model launched by one of the top ride hailing service startup running in Pakistan.
       I worked as a backend engineer and contributed in launching and pivoting from near-by retail store model to dark-store model. 
       Application is highly scalable due to its modular microservices architecture. Microservices are written 
-      in Express and Fastify. MongoDB and Postgres are used as primary databases. 
-  - title: Portage Claims Assessment Tool 
+      in Express and Fastify. MongoDB and Postgres are used as primary databases.
+  
+  - title: Portage Claims Assessment Tool
     tools: Nodejs, Python, Lambdas Functions, Api Gateway, AWS CDK, AWS Honeycode, Quicksight
     details: |
       A machine learning based classification system to classify medical insurance claims and draw analytics
@@ -92,7 +101,7 @@ projects:
       by the front-end app using an api gateway and results are live updated in Quicksight analytical
       dashboard.
 
-  - title: Law Market - MLsort 
+  - title: Law Market - MLsort
     tools: NodeJs, ElectronJs, ReactJs, Python
     details: |
       A desktop application aims to assist law firms in the litigation process. The application helps lawyers by
@@ -102,15 +111,15 @@ projects:
       application. Electron IPC are used for communicating with native desktop libraries. Built and published
       as a standalone installable cross-platform application.
 
-  - title: NIH Data Sciences Platform for Disease Analysis 
+  - title: NIH Data Sciences Platform for Disease Analysis
     tools: NodeJs, ElectronJs, ReactJs, Python
     details: |
       The system builds on specifically tailored Machine Learning algorithms and functionalities such as
       Predictive Analytics to offer a rich suite of features. With role based accesses and intuitive
       visualizations, it offers ease of use with fast access to insights and key trends, enabling better planning
       and policy decisions. The front-end of the platform is built in React Js with Ant design as UI framework.
-      The backend of the application is built in NestJs and Postgres is used for the purpose of database.    
-  
+      The backend of the application is built in NestJs and Postgres is used for the purpose of database.
+
   - title: Transconomy
     tools: .NET MVC, C#, AngularJS, SQL
     details: |
