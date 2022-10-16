@@ -28,7 +28,7 @@ skills:
   - ExpressJS
   - Fastify
   - C#
-  - .NetCore
+  - .NET Core
   - Python
   - React
   - AntDesign
@@ -42,6 +42,7 @@ skills:
   - TypeORM
   - Sequelize
   - Entity Framework
+  - Serverless Framework  
   - AWS(Lambda Functions, S3 bucket, API Gateway, AWS CDK, Tagging Api etc)
   - Docker
   - Git
@@ -76,6 +77,13 @@ experience:
       .NET MVC, MsSQL, Javascript, AngularJS
 
 projects:
+  - title: Portage Medical Navigator
+    tools: Nodejs, Python, Lambda, AWS API Gateway, Serverless Framework, Open Search, DynamoDB, React, Mui
+    details: |
+      It is assessment tool that provides insights on claim analytics and extracts key data element that would help in litigation scenario for claims analytics.
+      It's developed in React and Mui to build interactive dashboad that provides detailed insights and solution to interact with claim documets to generate key datapoints.
+      Backend is build using serverless framework and AWS lambda functions.
+       
   - title: Farmdar
     tools: Typescript, React, Redux, Leaflet Maps, NestJs, Postgres, Redis, Prisma
     details: |
@@ -94,7 +102,7 @@ projects:
       in Express and Fastify. MongoDB and Postgres are used as primary databases.
   
   - title: Portage Claims Assessment Tool
-    tools: Nodejs, Python, Lambdas Functions, Api Gateway, AWS CDK, AWS Honeycode, Quicksight
+    tools: Nodejs, Python, AWS Lambda, Api Gateway, AWS CDK, AWS Honeycode, Quicksight
     details: |
       A machine learning based classification system to classify medical insurance claims and draw analytics
       based on claims dataset. ML pipelines are connected through lambda functions which are being called
