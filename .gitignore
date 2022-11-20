@@ -1,4 +1,4 @@
 .sass-cache
 .jekyll-metadata
 vendor/*
-_site
+_site/*

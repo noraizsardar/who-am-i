@@ -47,13 +47,14 @@ skills:
   - Docker
   - Git
 # Profile
-profile: |
-  I am an experienced software engineer with diverse skillset 
-- Development experience multiple programming languages JavaScript/TypeScript, C#, Python
-- Experienced in front-end technologies like React, Angular and Blazor
-- Node frameworks (Express.js, Fastify.js, NestJS)
-- .Net MVC, WebAPI and minimal APIs
-- Experienced in building applications using AWS cloud platforms
+profile: 
+    intro: I am an experienced software engineer with diverse skillset 
+    points:
+      - Development experience with multiple programming languages JavaScript/TypeScript, C#, Python
+      - Experienced in front-end technologies like React, Angular and Blazor
+      - Node frameworks (Express.js, Fastify.js, NestJS)
+      - .Net MVC, WebAPI and minimal APIs
+      - Experienced in building applications using AWS cloud platform
 
 # Experience
 experience:
